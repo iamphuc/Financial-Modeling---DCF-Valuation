@@ -1,5 +1,5 @@
 # Financial-Modeling-DCF-Valuation
 
-![](images/TESLA20%DCF20%Valuation.JPG)
+![](images/TESLA%20DCF%20Valuation.JPG)
 
 # Development
